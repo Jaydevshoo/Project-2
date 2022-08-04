@@ -6,4 +6,4 @@
 
 ### What i learned in this project?
 
-* I've learned before and after pseudo selectors cocept in css.
+* I've learned before and after pseudo selectors concept in css.
