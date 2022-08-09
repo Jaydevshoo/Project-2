@@ -18,10 +18,12 @@ https://www.w3schools.com/cssref/sel_after.asp
 
 1:Button:
 https://www.w3schools.com/tags/tag_button.asp
+
+#[Live Preview](https://jaydev-live-project-02.netlify.app/)
  
 ![screenshot](./2.png)
 
-[Live Preview](https://jaydev-live-project-02.netlify.app/)
+
 
 ### What i learned in this project?
 
