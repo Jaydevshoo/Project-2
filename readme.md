@@ -1,7 +1,7 @@
 # Resturant Website 😋
  HTML/CSS website project from the FullStack Javascript Bootcamp 
  
- # before-and-after-effects-on-buttons
+ # before-and-after-effects-on-background-img
 This project is based on css before and after effects on a background image.Before and after in css are known as pseudo-elements because they are selected with '::' sign.Before and after are used very commonly in designing.
 
 
